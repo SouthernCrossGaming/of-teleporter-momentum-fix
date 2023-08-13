@@ -1,3 +1,7 @@
+This repository has been archived as the underlying issue for OF has been fixed.
+
+-------------------
+
 # Open Fortress Teleporter Velocity Fix
 
 This is a sourcemod plugin that fixes a bug affecting Open Fortress linux servers that stops your velocity when exiting a teleporter.
